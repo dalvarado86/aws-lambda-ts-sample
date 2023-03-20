@@ -106,3 +106,6 @@ dist
 # AWS Credentials
 *.awsconfig
 *.awscredentials
+
+# Build folder (transpiled files)
+*.build
